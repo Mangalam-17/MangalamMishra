@@ -6,7 +6,7 @@
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Mangalam Mishra</h1> 
+<h1 align="center">Hey 👋, I'm Mangalam Mishra</h1> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangalammishra&label=Profile%20views&color=0e75b6&style=flat" alt="mangalammishra" /> </p>
 
@@ -17,10 +17,10 @@
 <p align="left"> <a href="https://twitter.com/mangalam_17" target="blank"><img src="https://img.shields.io/twitter/follow/mangalam_17?logo=twitter&style=for-the-badge" alt="mangalammishra" /></a> </p>
 
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**
+- 📝 I’m currently working on **Data Structures and Algorithms**
 
 
-- 🌱 I’m currently learning **Web development**
+- ⚡️ I’m currently learning **Web development**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mangalam-17?tab=repositories](https://github.com/Mangalam-17?tab=repositories)
@@ -29,7 +29,7 @@
 - 💬 Ask me about **C , C++ , JAVA , DSA & Projects**
 
 
-- 📫 How to reach me **mangalamab17@gmail.com**
+- 🔮 Reach me on **mangalamab17@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
