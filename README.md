@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangalammishra&label=Profile%20views&color=0e75b6&style=flat" alt="mangalammishra" /> </p>
 
-<img align="right" alt="coding" width ="400" src="[https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)">
+<img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 
 
 
